@@ -1,12 +1,16 @@
 # Olá! Sou o Micael. Seja bem-vindo(a) no meu perfil
 - 📚 | Cursando Análise e Desenvolvimento de Sistemas 
 - 💻 | Estudando Python e SQL no momento
-- 📝 | Competências: <div style="margin-top: 20px; text-align: center;"><br>
+- 📝 | Competências:
+
+<div style="margin-top: 20px; text-align: center;"><br>
   <img alt="HTML_icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS_icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="JS_icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Python_icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="SQL_icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg">
+  <img alt="Git_icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img alt="GitHub_icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;"><br>
